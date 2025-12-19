@@ -31,20 +31,6 @@ Implements business logic and handles communication between controller and repos
 Controller Layer
 Exposes RESTful APIs to handle client requests and responses.
 
-Project Structure
-student_requirement_management/
-├── src/main/java/
-│   └── com/example/student/
-│       ├── controller/
-│       ├── service/
-│       ├── repository/
-│       └── entity/
-├── src/main/resources/
-│   └── application.properties
-├── pom.xml
-├── .gitignore
-└── README.md
-
 Features
 
 REST API development using Spring Boot
